@@ -1,0 +1,20 @@
+MG01;Fortunata;Amor;Ángel;Borrego;3217951718;Pasadizo de José Mari Garcés 422 Piso 4  Ávila, 84499;4605628.68;;MANAGER;5
+MG02;Ágata;Clemente;Márquez;Perez;3137665873;Calle Eloísa Ribes 9 Valencia, 43442;4867303.62;;MANAGER;1
+MG03;Fabiola;;Cepeda;Oller;3889965724;Pasaje de Joan Pagès 29 Puerta 4  Ourense, 67890;6391986.46;;MANAGER;4
+MG04;Hilario;Gervasio;Cortes;Segovia;3224219836;Acceso de Leandra Abella 49 Puerta 8  Tarragona, 36398;2753499.4;;MANAGER;2
+MG05;Marcos;Manuelita;Acedo;Cepeda;3274762074;Paseo de Leticia Royo 6 Málaga, 82730;4593857.1;;MANAGER;3
+EP01;Aníbal;Heliodoro;Aliaga;Gibert;3593841973;Via Armida Luján 71 Barcelona, 41776;2552535.27;MG05;EMPLOYEE;
+EP02;Jaime;Marisol;Urrutia;Exposito;3448036271;Cañada de Bruno Segura 62 Huelva, 36085;6366104.32;MG03;EMPLOYEE;
+EP03;Duilio;Adela;Caro;Juan;3696619147;Avenida de Yésica Peñas 81 Cuenca, 05545;3709169.19;MG01;EMPLOYEE;
+EP04;Teodosio;David;Garzón;Carranza;3703121919;Callejón Socorro Rivera 5 Apt. 57  Málaga, 39146;5442835.97;MG03;EMPLOYEE;
+EP05;Violeta;Marino;Abril;Román;3292078499;C. Dorotea Diez 2 Valencia, 01352;4101765.41;MG05;EMPLOYEE;
+EP06;Desiderio;;Villalonga;Olmedo;3458196923;Glorieta de María José Cañete 2 Cuenca, 52344;2826374.95;MG01;EMPLOYEE;
+EP07;Emilia;;Amo;Matas;3895970655;Cañada de Florentina Espinosa 818 Lugo, 97940;7954782.22;MG02;EMPLOYEE;
+EP08;Arcelia;Caridad;Alvarado;Osorio;3476369389;Callejón Domingo Cervera 93 Apt. 44  Lugo, 76889;4375893.82;MG05;EMPLOYEE;
+EP09;Jacinta;;Pareja;Ariño;3454251502;Alameda de Atilio Raya 40 Puerta 9  Cáceres, 95301;4499121.08;MG04;EMPLOYEE;
+EP10;Imelda;René;Ángel;Marín;3922836451;Vial Aureliano Jimenez 53 Sevilla, 02313;5389292.67;MG01;EMPLOYEE;
+EP11;Elías;Jesusa;Manuel;Escobar;3802495350;Ronda Baudelio Carnero 19 Granada, 57005;6513062.44;MG01;EMPLOYEE;
+EP12;Felipe;;Frías;Correa;3218645571;Acceso de Florinda García 67 Lleida, 06718;3656405.32;MG04;EMPLOYEE;
+EP13;Marita;;Lasa;Chaves;3967818239;Vial Raimundo Casanovas 964 Cantabria, 31548;5008688.57;MG03;EMPLOYEE;
+EP14;Etelvina;Cruz;Porcel;Benitez;3347903437;Cañada de Vidal Collado 520 Soria, 90505;5083372.54;MG01;EMPLOYEE;
+EP15;Tomás;Gregorio;Portillo;Robles;3184028421;Ronda de Obdulia Palomar 95 Puerta 5  Huesca, 96247;7386971.02;MG03;EMPLOYEE;
